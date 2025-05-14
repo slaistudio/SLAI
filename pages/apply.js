@@ -68,7 +68,7 @@ export default function Apply() {
             <input name="social_id" required className="w-full border px-3 py-2 rounded" />
           </label>
           <button type="submit" className="bg-[#7e441f] text-white px-6 py-2 rounded hover:bg-[#5b3a1d] transition">
-            送出
+            送出應徵
           </button>
           <p className="mt-4 text-sm text-gray-600">{status}</p>
         </form>
